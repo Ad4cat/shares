@@ -1,0 +1,6 @@
+{
+  "/api/proxy/[...path]/route": "app/api/proxy/[...path]/route.js",
+  "/api/clerk/users/route": "app/api/clerk/users/route.js",
+  "/join/page": "app/join/page.js",
+  "/group/page": "app/group/page.js"
+}
